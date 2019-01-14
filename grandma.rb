@@ -6,7 +6,7 @@ def speak_to_grandma(speak)
   elsif speak == speak.downcase
     "HUH?! SPEAK UP, SONNY!"
   else 
-    puts "'I LOVE YOU TOO PUMPKIN!"
+    "I LOVE YOU TOO PUMPKIN!"
   end
 end
 
